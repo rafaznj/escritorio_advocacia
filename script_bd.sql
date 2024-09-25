@@ -7,7 +7,7 @@ email varchar(255),
 telefone varchar(15), 
 turno_contato varchar(60),
 vara_processual varchar(30),
-descrição_processo text
+descricao_processo text
 );
 
 CREATE TABLE conta(
