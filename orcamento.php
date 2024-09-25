@@ -3,6 +3,8 @@
 <body>
     <form method="post">
 
+    <?php include "config_bd.php"; ?>
+    
         <div class="container">
             <div class="row">
 
